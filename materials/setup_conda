@@ -77,4 +77,4 @@ if __name__ == "__main__":
     cleanup()
 
     con.log("[green]Everything is A-OK. "
-            "You can start using Qiime 2 now :thumbs_up:[/green]")
+            "You can start using conda now :thumbs_up:[/green]")
