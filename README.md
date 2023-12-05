@@ -51,6 +51,7 @@ Notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge
 * Masella AP et al. (2012). PANDAseq: Paired-end assembler for illumina sequences. _BMC Bioinformatics_, 13(1), 31. https://doi.org/10.1186/1471-2105-13-31
 * McDonald D et al. (2012). The Biological Observation Matrix (BIOM) format or: how I learned to stop worrying and love the ome-ome. _GigaScience_, 1(1), 7. https://doi.org/10.1186/2047-217X-1-7
 * McMurdie PJ and Holmes S. (2013). Phyloseq: An R Package for Reproducible Interactive Analysis and Graphics of Microbiome Census Data. _PLoS ONE_, 8(4), e61217. https://doi.org/10.1371/journal.pone.0061217
+* Poolman TM, Townsend-Nicholson A, Cain A. (2022) Teaching genomics to life science undergraduates using cloud computing platforms with open datasets. _Biochem Mol Biol Educ._ 50(5):446-449. https://doi.org/10.1002/bmb.21646
 * Quast C et al. (2013) The SILVA ribosomal RNA gene database project: improved data processing and web-based tools. _Nucl. Acids Res._ 41 (D1): D590-D596. https://doi.org/10.1093/nar/gks1219
 
   
