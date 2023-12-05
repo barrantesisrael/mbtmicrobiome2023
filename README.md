@@ -30,7 +30,7 @@ All required software, packages and data are accessible through our virtual Goog
 
 ## Session 1: Processing Illumina data and OTU assignment 
 
-Notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/barrantesisrael/mbtmicrobiome2023/blob/main/materials/bashsession_mbt2023_v01.ipynb)
+Notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/barrantesisrael/mbtmicrobiome2023/blob/main/materials/bashsession_mbt2023_v02.ipynb)
 
 ## Session 2: Analysis of the microbial communities in R
 
