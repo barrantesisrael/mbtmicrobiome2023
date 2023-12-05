@@ -24,7 +24,7 @@ These sessions will cover the use of a variety of software tools needed for the 
 
 ##### Software
 
-All required software, packages and data are accessible through our virtual Google Colab environments (google email account needed to login). A backup and older versions of our course, based on Binder, can be found [here](https://github.com/barrantesisrael/mbt.microbiome.2021) <p>
+All required software, packages and data are accessible through our virtual Google Colab environments (google email account needed to login). A backup (older) versions of this course, based on Binder, can be found [here](https://github.com/barrantesisrael/mbt.microbiome.2021) <p>
 
 ---
 
