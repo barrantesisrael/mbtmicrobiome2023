@@ -45,9 +45,9 @@ Notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge
 * DeSantis TZ et al. (2006) Greengenes, a chimera-checked 16S rRNA gene database and workbench compatible with ARB. _Appl Environ Microbiol_ Jul;72(7):5069-72. https://journals.asm.org/doi/10.1128/aem.03006-05
 * Gentleman RC et al. (2004). Bioconductor: open software development for computational biology and bioinformatics. _Genome Biology_, 5(10), R80. https://doi.org/10.1186/gb-2004-5-10-r80
 * Goodrich JKK et al. (2014). Conducting a Microbiome Study. _Cell_, 158(2), 250–262. https://doi.org/10.1016/j.cell.2014.06.037
-* Knight R et al. (2018). Best practices for analysing microbiomes. _Nature Reviews Microbiology_, 16, 410–422. https://doi.org/10.1038/s41579-018-0029-9
-* Kozich JJ, Westcott SL, Baxter NT, Highlander SK, Schloss PD. (2013) Development of a dual-index sequencing strategy and curation pipeline for analyzing amplicon sequence data on the MiSeq Illumina sequencing platform. _Applied and Environmental Microbiology_, 79(17):5112-20. http://doi.org/10.1128/AEM.01043-13
-* Lu, J., Rincon, N., Wood, D.E. et al. Metagenome analysis using the Kraken software suite. Nat Protoc (2022). https://doi.org/10.1038/s41596-022-00738-y
+* Knight R et al. (2018). Best practices for analysing microbiomes. _Nat Rev Microbiol_, 16, 410–422. https://doi.org/10.1038/s41579-018-0029-9
+* Kozich JJ, Westcott SL, Baxter NT, Highlander SK, Schloss PD. (2013) Development of a dual-index sequencing strategy and curation pipeline for analyzing amplicon sequence data on the MiSeq Illumina sequencing platform. _Appl Environ Microbiol_, 79(17):5112-20. http://doi.org/10.1128/AEM.01043-13
+* Lu, J., Rincon, N., Wood, D.E. et al. (2022) Metagenome analysis using the Kraken software suite. _Nat Protoc._ https://doi.org/10.1038/s41596-022-00738-y
 * Masella AP et al. (2012). PANDAseq: Paired-end assembler for illumina sequences. _BMC Bioinformatics_, 13(1), 31. https://doi.org/10.1186/1471-2105-13-31
 * McDonald D et al. (2012). The Biological Observation Matrix (BIOM) format or: how I learned to stop worrying and love the ome-ome. _GigaScience_, 1(1), 7. https://doi.org/10.1186/2047-217X-1-7
 * McMurdie PJ and Holmes S. (2013). Phyloseq: An R Package for Reproducible Interactive Analysis and Graphics of Microbiome Census Data. _PLoS ONE_, 8(4), e61217. https://doi.org/10.1371/journal.pone.0061217
