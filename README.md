@@ -34,7 +34,7 @@ Notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge
 
 ## Session 2: Analysis of the microbial communities in R
 
-Notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/barrantesisrael/mbtmicrobiome2023/blob/main/materials/rsession_mbt2023_V03.ipynb)
+Notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/barrantesisrael/mbtmicrobiome2023/blob/main/materials/rsession_mbt2023_V04.ipynb)
 
 ---
 
