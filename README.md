@@ -35,7 +35,7 @@ These sessions will cover the use of a variety of software tools needed for the 
 
 ##### Software
 
-All required software, packages and data, as well as experimental protocols are accessible through our virtual Google Colab environments (google email account needed to login). 
+- All required software, packages and data, as well as experimental protocols are accessible through our virtual [Google Colab](https://colab.research.google.com/) environments (google email account needed to login). 
 
 <!--
 
