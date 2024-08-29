@@ -16,15 +16,32 @@ These sessions will cover the use of a variety of software tools needed for the 
 
 ##### Venues and Dates
 
+* Wednesday October 23rd and 30th 2024 (10:00 - 11:30), at the SR2 - ZIM (Zentrum für Innere Medizin, [Ernst-Heydemann-Str. 6](https://maps.app.goo.gl/y9BB3EXmh2ZZbCJX6)) <p>
+
+<!--
 * Wednesday October 18th and 25th 2023 (10:00 - 11:30), at the SR2 - ZIM (Zentrum für Innere Medizin, [Ernst-Heydemann-Str. 6](https://maps.app.goo.gl/y9BB3EXmh2ZZbCJX6)) <p>
+-->
+
 
 ##### Presentations
 
+- Slides: [PDF](https://github.com/barrantesisrael/mbtmicrobiome2023/blob/main/MBTPraktikum2023V01.pdf) <p>
+
+<!--
+
 - Slides: [PDF](https://drive.google.com/file/d/1IvdyRI0kiJNK5ECtGWHwOgrY763N10QR/view?usp=share_link) <p>
+
+-->
 
 ##### Software
 
-All required software, packages and data are accessible through our virtual Google Colab environments (google email account needed to login). A backup (older) versions of this course, based on Binder, can be found [here](https://github.com/barrantesisrael/mbt.microbiome.2021) <p>
+All required software, packages and data, as well as experimental protocols are accessible through our virtual Google Colab environments (google email account needed to login). 
+
+<!--
+
+A backup (older) versions of this course, based on Binder, can be found [here](https://github.com/barrantesisrael/mbt.microbiome.2021) <p>
+
+-->
 
 ---
 
@@ -69,4 +86,4 @@ Ernst-Heydemann-Str. 8<br>
 Email: israel.barrantes[bei]uni-rostock.de
 
 ---
-Last update 2023/10/12
+Last update 2024/08/27
