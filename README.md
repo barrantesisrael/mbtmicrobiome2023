@@ -25,7 +25,7 @@ These sessions will cover the use of a variety of software tools needed for the 
 
 ##### Presentations
 
-- Slides: [PDF](https://github.com/barrantesisrael/mbtmicrobiome2023/blob/main/MBTPraktikum2023V01.pdf) <p>
+- Download here: [link](https://github.com/barrantesisrael/mbtmicrobiome2023/blob/main/MBTPraktikum2024V01.pdf) <p>
 
 <!--
 
