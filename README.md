@@ -49,7 +49,7 @@ A backup (older) versions of this course, based on Binder, can be found [here](h
 ## Session 1: Processing Illumina data and OTU assignment 
 
 
-Experimental protocol (Jupyter Notebook): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/barrantesisrael/mbtmicrobiome2023/blob/main/data2024/bashsession_mbt2024_v03.ipynb)
+Experimental protocol (Jupyter Notebook): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/barrantesisrael/mbtmicrobiome2023/blob/main/data2024/bashsession_mbt2024_v04.ipynb)
 
 ## Session 2: Analysis of the microbial communities in R
 
