@@ -1,4 +1,4 @@
-#SampleID	Gender	Smoking	Veg	Cat	Dog
+SampleID	Gender	Smoking	Veg	Cat	Dog
 positivKo	U	N	N	N	N
 Platz1	M	N	N	N	N
 Platz2	M	N	Y	N	N
