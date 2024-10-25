@@ -53,7 +53,7 @@ Experimental protocol (Jupyter Notebook): [![Open In Colab](https://colab.resear
 
 ## Session 2: Analysis of the microbial communities in R
 
-Experimental protocol (Jupyter Notebook): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/barrantesisrael/mbtmicrobiome2023/blob/main/materials/rsession_mbt2024_V02.ipynb)
+Experimental protocol (Jupyter Notebook): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/barrantesisrael/mbtmicrobiome2023/blob/main/data2024/rsession_mbt2024_V02.ipynb)
 
 <!--
 Experimental protocol (Jupyter Notebook): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/barrantesisrael/mbtmicrobiome2023/blob/main/materials/bashsession_mbt2023_v02.ipynb)
