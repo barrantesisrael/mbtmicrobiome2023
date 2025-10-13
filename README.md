@@ -16,7 +16,7 @@ These sessions will cover the use of a variety of software tools needed for the 
 
 ##### Venues and Dates
 
-* Wednesday October 23rd and 30th 2024 (10:00 - 11:30), at the SR2 - ZIM (Zentrum für Innere Medizin, [Ernst-Heydemann-Str. 6](https://maps.app.goo.gl/y9BB3EXmh2ZZbCJX6)) <p>
+* Wednesday October 22nd and 29th 2025 (10:00 - 11:30), at the SR2 Institutsgebäude ([Schillingallee 70](https://maps.app.goo.gl/X4ky3ixo9qhWz1JE6)) <p>
 
 <!--
 * Wednesday October 18th and 25th 2023 (10:00 - 11:30), at the SR2 - ZIM (Zentrum für Innere Medizin, [Ernst-Heydemann-Str. 6](https://maps.app.goo.gl/y9BB3EXmh2ZZbCJX6)) <p>
@@ -49,13 +49,27 @@ A backup (older) versions of this course, based on Binder, can be found [here](h
 ## Session 1: Processing Illumina data and OTU assignment 
 
 
+Experimental protocol (Jupyter Notebook): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/barrantesisrael/mbtmicrobiome2023/blob/main/data2025/bashsession_mbt2025_v04.ipynb)
+
+## Session 2: Analysis of the microbial communities in R
+
+Experimental protocol (Jupyter Notebook): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/barrantesisrael/mbtmicrobiome2023/blob/main/data2025/rsession_mbt2025_V02.ipynb)
+
+<!--
+
+## Session 1: Processing Illumina data and OTU assignment 
+
+
 Experimental protocol (Jupyter Notebook): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/barrantesisrael/mbtmicrobiome2023/blob/main/data2024/bashsession_mbt2024_v04.ipynb)
 
 ## Session 2: Analysis of the microbial communities in R
 
 Experimental protocol (Jupyter Notebook): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/barrantesisrael/mbtmicrobiome2023/blob/main/data2024/rsession_mbt2024_V02.ipynb)
 
-<!--
+---
+
+## Session 1: Processing Illumina data and OTU assignment 
+
 Experimental protocol (Jupyter Notebook): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/barrantesisrael/mbtmicrobiome2023/blob/main/materials/bashsession_mbt2023_v02.ipynb)
 
 ## Session 2: Analysis of the microbial communities in R
@@ -97,4 +111,4 @@ Ernst-Heydemann-Str. 8<br>
 Email: israel.barrantes[bei]uni-rostock.de
 
 ---
-Last update 2024/08/27
+Last update 2025/10/10
