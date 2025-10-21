@@ -16,4 +16,4 @@ kraken2 --db 16S_Greengenes_k2db --use-names --output Platz6.txt --report Platz6
 kraken2 --db 16S_Greengenes_k2db --use-names --output Platz7.txt --report Platz7.report  --paired Platz7_R1.head.fastq Platz7_R2.head.fastq
 kraken2 --db 16S_Greengenes_k2db --use-names --output Platz8.txt --report Platz8.report  --paired Platz8_R1.head.fastq Platz8_R2.head.fastq
 kraken2 --db 16S_Greengenes_k2db --use-names --output Platz9.txt --report Platz9.report  --paired Platz9_R1.head.fastq Platz9_R2.head.fastq
-kraken2 --db 16S_Greengenes_k2db --use-names --output positivKo.txt --report positivKo.report  --paired positivKo_R1.head.fastq positivKo_R2.head.fastq
+# kraken2 --db 16S_Greengenes_k2db --use-names --output positivKo.txt --report positivKo.report  --paired positivKo_R1.head.fastq positivKo_R2.head.fastq
