@@ -1,6 +1,6 @@
 # UMR MBT Microbiome Praktikum
 
-Scripts and tutorials for analyzing microbiome data. Seminar for the module: <br>[Moderne molekulare und Hochdurchsatz-Technologien in der medizinischen Grundlagenforschung](https://lsf.uni-rostock.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=144145&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)
+Scripts and tutorials for analyzing microbiome data. Seminar for the module: <br>[Moderne molekulare und Hochdurchsatz-Technologien in der medizinischen Grundlagenforschung](https://lsf.uni-rostock.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=187078&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&idcol=k_semester.semid&idval=20262&getglobal=semester&htmlBodyOnly=true)
 
 ---
 
@@ -16,9 +16,12 @@ These sessions will cover the use of a variety of software tools needed for the 
 
 ##### Venues and Dates
 
-* Wednesday October 22nd and 29th 2025 (10:00 - 11:30), at the SR2 Institutsgebäude ([Schillingallee 70](https://maps.app.goo.gl/X4ky3ixo9qhWz1JE6)) <p>
+* Wednesday October 21st and 28th 2026 (10:00 - 11:30), at the SR2 ZIM <p>
 
 <!--
+* Wednesday October 22nd and 29th 2025 (10:00 - 11:30), at the SR2 Institutsgebäude ([Schillingallee 70](https://maps.app.goo.gl/X4ky3ixo9qhWz1JE6)) <p>
+
+
 * Wednesday October 18th and 25th 2023 (10:00 - 11:30), at the SR2 - ZIM (Zentrum für Innere Medizin, [Ernst-Heydemann-Str. 6](https://maps.app.goo.gl/y9BB3EXmh2ZZbCJX6)) <p>
 -->
 
@@ -49,11 +52,11 @@ A backup (older) versions of this course, based on Binder, can be found [here](h
 ## Session 1: Processing Illumina data and OTU assignment 
 
 
-Experimental protocol (Jupyter Notebook): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/barrantesisrael/mbtmicrobiome2023/blob/main/data2025/bashsession_mbt2025_v04.ipynb)
+Experimental protocol (Jupyter Notebook): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/barrantesisrael/mbtmicrobiome2023/blob/main/data2026/bashsession_mbt2026_v04.ipynb)
 
 ## Session 2: Analysis of the microbial communities in R
 
-Experimental protocol (Jupyter Notebook): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/barrantesisrael/mbtmicrobiome2023/blob/main/data2025/rsession_mbt2025_V02.ipynb)
+Experimental protocol (Jupyter Notebook): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/barrantesisrael/mbtmicrobiome2023/blob/main/data2026/rsession_mbt2026_V02.ipynb)
 
 <!--
 
@@ -111,4 +114,4 @@ Ernst-Heydemann-Str. 8<br>
 Email: israel.barrantes[bei]uni-rostock.de
 
 ---
-Last update 2025/10/10
+Last update 2026/10/19
