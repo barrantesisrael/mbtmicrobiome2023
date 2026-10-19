@@ -1,3 +1,4 @@
+#!/bin/bash
 kraken2 --db 16S_Greengenes_k2db --use-names --output Platz_10.txt --report Platz_10.report  --paired Platz_10_R1.head.fastq Platz_10_R2.head.fastq
 kraken2 --db 16S_Greengenes_k2db --use-names --output Platz_11.txt --report Platz_11.report  --paired Platz_11_R1.head.fastq Platz_11_R2.head.fastq
 kraken2 --db 16S_Greengenes_k2db --use-names --output Platz_12.txt --report Platz_12.report  --paired Platz_12_R1.head.fastq Platz_12_R2.head.fastq
