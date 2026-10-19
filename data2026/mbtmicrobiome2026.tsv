@@ -1,5 +1,4 @@
-# Constructed from biom file
-#OTU ID	Negativkontrolle	Platz_10	Platz_11	Platz_12	Platz_13	Platz_14	Platz_15	Platz_16	Platz_17	Platz_18	Platz_1	Platz_2	Platz_3	Platz_4	Platz_5	Platz_6	Platz_7	Platz_8	Platz_9	Positivkontrolle	taxonomy
+#OTUID	Negativkontrolle	Platz_10	Platz_11	Platz_12	Platz_13	Platz_14	Platz_15	Platz_16	Platz_17	Platz_18	Platz_1	Platz_2	Platz_3	Platz_4	Platz_5	Platz_6	Platz_7	Platz_8	Platz_9	Positivkontrolle	taxonomy
 527	117.0	390766.0	476483.0	262625.0	300739.0	203125.0	295640.0	345449.0	5294.0	16508.0	472317.0	444412.0	624630.0	371208.0	531684.0	2501430.0	8865.0	4801.0	371055.0	430.0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__
 1017	135.0	280235.0	351864.0	235840.0	129525.0	170661.0	164034.0	176427.0	4973.0	13759.0	382981.0	468076.0	303725.0	342606.0	451598.0	1861993.0	8610.0	5873.0	265283.0	380.0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__
 1797	53.0	141929.0	213950.0	117191.0	44380.0	58495.0	32272.0	51335.0	2385.0	4866.0	129971.0	100423.0	86080.0	106526.0	165016.0	400130.0	4915.0	2946.0	161993.0	106.0	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__
